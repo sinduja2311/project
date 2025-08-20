@@ -2,3 +2,5 @@ lily
 rose
 jasmine
 lotus
+pink
+blue
